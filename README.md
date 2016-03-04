@@ -29,7 +29,7 @@ To make it as easy as possible this repository is using the Github issue tracker
 | [Blog](https://github.com/jenstornell/kirby-themes/labels/Blog), [Bootstrap](https://github.com/jenstornell/kirby-themes/labels/Bootstrap), [Commercial](https://github.com/jenstornell/kirby-themes/labels/Commercial), [Docs](https://github.com/jenstornell/kirby-themes/labels/Docs), [Foundation](https://github.com/jenstornell/kirby-themes/labels/Foundation), [Material Design](https://github.com/jenstornell/kirby-themes/labels/Material Design), [Portfolio](https://github.com/jenstornell/kirby-themes/labels/Portfolio), [Theme](https://github.com/jenstornell/kirby-themes/labels/Theme)
 
 
-You can also [search](https://github.com/jenstornell/kirby-themes/issues) for the plugin.
+You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a theme.
 
 ## Submit a theme
 
