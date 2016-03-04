@@ -16,7 +16,7 @@ To make it as easy as possible this repository is using the Github issue tracker
 | -----------|---
 | [![Blog](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/blog.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ABlog) | Suitable for blogs
 | [![Bootstrap](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/bootstrap.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ABootstrap) | Built on Bootstrap framework
-| [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | Costs money
+| [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | These themes cost money
 | [![Docs](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/docs.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ADocs) | Suitable for documents, reference & textual content
 | [![Foundation](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/foundation.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AFoundation) | Built on Zurb Foundation framework
 | [![Material](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/material.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AMaterial) | Built on Google Material Design framework
