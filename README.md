@@ -23,12 +23,6 @@ To make it as easy as possible this repository is using the Github issue tracker
 | [![Portfolio](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/portfolio.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3APortfolio) | Suitable for portfolios
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ATheme) | A Kirby CMS (version 2) compatible theme
 
-
-| Tags
-| ---
-| [Blog](https://github.com/jenstornell/kirby-themes/labels/blog), [Bootstrap](https://github.com/jenstornell/kirby-themes/labels/Bootstrap), [Commercial](https://github.com/jenstornell/kirby-themes/labels/Commercial), [Docs](https://github.com/jenstornell/kirby-themes/labels/Docs), [Foundation](https://github.com/jenstornell/kirby-themes/labels/Foundation),
-[Material Design](https://github.com/jenstornell/kirby-themes/labels/Material Design), [Portfolio](https://github.com/jenstornell/kirby-themes/labels/Portfolio), [Theme](https://github.com/jenstornell/kirby-themes/labels/Theme)
-
 You can also [search](https://github.com/jenstornell/kirby-themes/issues) for the plugin.
 
 ## Submit a theme
