@@ -45,8 +45,7 @@ Github issue tracker has a built in search. If that is not enough you can filter
 
 ## Other resources
 
-[getkirby-themes.com](http://www.getkirby-themes.com)
-[Creative Market](https://creativemarket.com/search?q=kirby)
+[getkirby-themes.com](http://www.getkirby-themes.com)[Creative Market](https://creativemarket.com/search?q=kirby)
 
 ## Future
 
