@@ -47,8 +47,6 @@ Github issue tracker has a built in search. If that is not enough you can filter
 
 [getkirby-themes.com](http://www.getkirby-themes.com)
 
-[Creative Market](https://creativemarket.com/search?q=kirby)
-
 ## Future
 
 It's probably easy to build a website around it with [Github API](https://developer.github.com/v3/issues/) tha makes it more visually appealing.
