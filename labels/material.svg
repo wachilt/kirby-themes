@@ -8,6 +8,6 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 >
 	<text font-family="Arial" font-weight="bold" font-size="14" x="10" y="20">
-		<tspan fill="#000">Material Design</tspan>
+		<tspan fill="#000">Material design</tspan>
 	</text>
 </svg>
