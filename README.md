@@ -33,15 +33,29 @@ You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a 
 
 ## Submit a theme
 
-**[Add a theme](https://github.com/jenstornell/kirby-themes/issues)**
-
-To do that just add an issue.
+1. [Search](https://github.com/jenstornell/kirby-themes/issues) for the thems to make sure it does not already exist.
+1. [Add the theme](https://github.com/jenstornell/kirby-themes/issues/new).
+1. Don't close the issue.
 
 Make sure to also add labels. It's great when filtering for a theme.
 
 ## Find a theme
 
 Github issue tracker has a built in search. If that is not enough you can filter the themes by the label.
+
+## Report a plugin
+
+If the theme is **broken**, is **malware** or is a **duplicate** (already exists in the theme list), add a comment in the theme issue. If others agree, we can label it. Don't close the issue!
+
+## Requirements
+
+The requirement for using these plugins is Kirby 2. If you are still using Kirby 1 we encourage you to update for compatibility and security reasons.
+
+## Responsibility
+
+This repository does not take any responsibility for the harm the themes can do. 
+
+
 
 ## Other resources
 
