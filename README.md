@@ -41,7 +41,7 @@ Make sure to also add labels. It's great when filtering for a theme.
 
 ## Find a theme
 
-Github issue tracker has a built in [Search](https://github.com/jenstornell/kirby-themes/issues). If that is not enough you can filter the themes by the label.
+Github issue tracker has a built in [search](https://github.com/jenstornell/kirby-themes/issues). If that is not enough you can filter the themes by the label.
 
 ## Report a plugin
 
