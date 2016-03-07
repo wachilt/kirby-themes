@@ -33,7 +33,7 @@ You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a 
 
 ## Submit a theme
 
-1. [Search](https://github.com/jenstornell/kirby-themes/issues) for the thems to make sure it does not already exist.
+1. [Search](https://github.com/jenstornell/kirby-themes/issues) for the theme to make sure it does not already exist.
 1. [Add the theme](https://github.com/jenstornell/kirby-themes/issues/new).
 1. Don't close the issue.
 
