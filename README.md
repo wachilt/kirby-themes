@@ -26,7 +26,7 @@ To make it as easy as possible this repository is using the Github issue tracker
 
 | Tags
 | ---
-| [Blog](https://github.com/jenstornell/kirby-themes/labels/Blog), [Bootstrap](https://github.com/jenstornell/kirby-themes/labels/Bootstrap), [Commercial](https://github.com/jenstornell/kirby-themes/labels/Commercial), [Docs](https://github.com/jenstornell/kirby-themes/labels/Docs), [Foundation](https://github.com/jenstornell/kirby-themes/labels/Foundation), [Material design](https://github.com/jenstornell/kirby-themes/labels/Material design), [Portfolio](https://github.com/jenstornell/kirby-themes/labels/Portfolio), [Theme](https://github.com/jenstornell/kirby-themes/labels/Theme)
+| [Blog](https://github.com/jenstornell/kirby-themes/labels/Blog), [Bootstrap](https://github.com/jenstornell/kirby-themes/labels/Bootstrap), [Commercial](https://github.com/jenstornell/kirby-themes/labels/Commercial), [Docs](https://github.com/jenstornell/kirby-themes/labels/Docs), [Foundation](https://github.com/jenstornell/kirby-themes/labels/Foundation), [Material](https://github.com/jenstornell/kirby-themes/labels/Material), [Portfolio](https://github.com/jenstornell/kirby-themes/labels/Portfolio), [Theme](https://github.com/jenstornell/kirby-themes/labels/Theme)
 
 
 You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a theme.
