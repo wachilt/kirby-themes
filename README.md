@@ -19,7 +19,7 @@ To make it as easy as possible this repository is using the Github issue tracker
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | These themes cost money
 | [![Docs](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/docs.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ADocs) | Suitable for documents, reference & textual content
 | [![Foundation](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/foundation.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AFoundation) | Built on Zurb Foundation framework
-| [![Material](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/material.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3A%22Material+design%22) | Built on Google Material design framework
+| [![Material](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/material.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AMaterial) | Built on Google Material design framework
 | [![Portfolio](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/portfolio.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3APortfolio) | Suitable for portfolios & displaying work
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ATheme) | Kirby CMS (version 2) compatible theme
 
