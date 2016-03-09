@@ -61,6 +61,10 @@ This repository does not take any responsibility for the harm the themes can do.
 
 http://www.getkirby-themes.com
 
+## Kirby plugins
+
+**[Kirby plugins](https://github.com/jenstornell/kirby-plugins)** - the unofficial [plugin list](https://github.com/jenstornell/kirby-plugins/issues) for Kirby CMS.
+
 ## Future
 
 It's probably easy to build a website around it with [Github API](https://developer.github.com/v3/issues/) that makes it more visually appealing.
