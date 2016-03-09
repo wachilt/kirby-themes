@@ -43,7 +43,7 @@ Make sure to also add labels. It's great when filtering for a theme.
 
 Github issue tracker has a built in [search](https://github.com/jenstornell/kirby-themes/issues). If that is not enough you can filter the themes by the label.
 
-## Report a plugin
+## Report a theme
 
 If the theme is **broken**, is **malware** or is a **duplicate** (already exists in the theme list), add a comment in the theme issue. If others agree, we can label it. Don't close the issue!
 
