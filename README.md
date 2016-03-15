@@ -2,7 +2,9 @@
 
 ## For Kirby CMS
 
-This repository includes full featured themes for [Kirby CMS](https://getkirby.com/). A full featured theme often contains templates, snippets and assets.
+This repository includes full featured themes for [Kirby CMS](https://getkirby.com/).
+
+`A full featured theme typically contains templates, snippets and assets.`
 
 ## The themes
 
