@@ -31,7 +31,7 @@ You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a 
 1. [Add the theme](https://github.com/jenstornell/kirby-themes/issues/new).
 1. Don't close the issue.
 
-Make sure to also add labels. It's great when filtering for a theme.
+You can only add labels if you are a collaborator. I can change the privileges when needed.
 
 ## Find a theme
 
