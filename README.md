@@ -4,13 +4,7 @@ The unofficial **[full featured themes list](https://github.com/jenstornell/kirb
 
 `A full featured theme typically contains templates, snippets and assets.`
 
-## The themes
-
-To make it as easy as possible this repository is using the Github issue tracker to list the themes.
-
-**[Theme list](https://github.com/jenstornell/kirby-themes/issues)**
-
-**Theme Labels**:
+**Theme Labels**
 
 | Label      | Description
 | -----------|---
