@@ -1,8 +1,6 @@
 # Kirby Themes
 
-## For Kirby CMS
-
-This repository includes full featured themes for [Kirby CMS](https://getkirby.com/).
+The unofficial **[full featured themes list](https://github.com/jenstornell/kirby-themes/issues)** for [Kirby CMS](https://getkirby.com/).
 
 `A full featured theme typically contains templates, snippets and assets.`
 
