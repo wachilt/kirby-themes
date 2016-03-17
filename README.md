@@ -1,6 +1,6 @@
 # Kirby Themes
 
-The unofficial **[themes list](https://github.com/jenstornell/kirby-themes/issues)** for [Kirby CMS](https://getkirby.com/).
+The unofficial **[theme list](https://github.com/jenstornell/kirby-themes/issues)** for [Kirby CMS](https://getkirby.com/).
 
 `A full featured theme typically contains templates, snippets and assets.`
 
