@@ -34,10 +34,6 @@ You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a 
 
 You can only add labels if you are a collaborator. I can change the privileges when needed.
 
-## Find a theme
-
-Github issue tracker has a built in [search](https://github.com/jenstornell/kirby-themes/issues). If that is not enough you can filter the themes by the label.
-
 ## Report a theme
 
 If the theme is **broken**, is **malware** or is a **duplicate** (already exists in the theme list), add a comment in the theme issue. If others agree, we can label it. Don't close the issue!
