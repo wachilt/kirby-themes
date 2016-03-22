@@ -4,6 +4,8 @@
 
 `A full featured Kirby theme typically contains templates, snippets and assets.`
 
+<br />
+
 | Theme label      | Description
 | -----------|---
 | [![Blog](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/blog.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ABlog) | Suitable for blogs & journals
