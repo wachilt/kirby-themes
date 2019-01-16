@@ -50,7 +50,7 @@ This repository does not take any responsibility for the harm the themes can do.
 
 ## Support
 
-For theme support please contact the original developer.
+For theme support questions please contact the original theme developer.
 
 ## Other resources
 
