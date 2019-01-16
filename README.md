@@ -42,7 +42,7 @@ If the theme is **broken**, is **malware** or is a **duplicate** (already exists
 
 ## Requirements
 
-The requirement for using these themes is Kirby 2. If you are still using Kirby 1 (which is now deprecated) we encourage you to update for compatibility and security reasons.
+The requirement for using these themes is Kiby 3 and Kirby 2. If you are still using Kirby 1 (which is now deprecated) we encourage you to update for compatibility and security reasons.
 
 ## Responsibility
 
