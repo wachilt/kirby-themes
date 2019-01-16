@@ -18,7 +18,7 @@
 | [![Portfolio](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/portfolio.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3APortfolio) | Suitable for portfolios & displaying work
 | [![Screenshot](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/screenshot.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AScreenshot) | Theme screenshot available
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ATheme) | Kirby CMS (version 2) compatible theme
-| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ATheme) | Kirby CMS (version 2) compatible theme
+| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k3_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ATheme) | Kirby 3 compatible theme
 
 
 <!---| Tags
