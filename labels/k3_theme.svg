@@ -7,7 +7,7 @@
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 >
-	<text font-family="Arial" font-weight="bold" font-size="14" x="10" y="40">
+	<text font-family="Arial" font-weight="bold" font-size="14" x="10" y="20">
 		<tspan fill="#fff">Kirby 3 theme</tspan>
 	</text>
 </svg>
