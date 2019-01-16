@@ -48,7 +48,9 @@ Kirby 3 and/or Kirby 2 are required to use these themes. If you are still using 
 
 This repository does not take any responsibility for the harm the themes can do. 
 
+## Support
 
+For theme support please contact the original developer.
 
 ## Other resources
 
