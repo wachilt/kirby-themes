@@ -4,7 +4,7 @@
 
 `A fully featured Kirby CMS theme typically contains templates, snippets and assets.`
 
-### Kirby 3 compatible themes now being added
+### Kirby 3 compatible themes now being added.
 
 <br />
 
