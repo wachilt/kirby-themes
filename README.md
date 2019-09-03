@@ -62,7 +62,7 @@ http://www.getkirby-themes.com
 
 **[Kirby plugins](https://github.com/jenstornell/kirby-plugins)** - the unofficial [plugin list](https://github.com/jenstornell/kirby-plugins/issues) for Kirby CMS.
 
-**[Kirby directory](https://github.com/heroheman/kirby-directory)** - a frontend for kirby CMS plugins & themes.
+**[Kirby directory](https://github.com/heroheman/kirby-directory)** - a frontend for Kirby CMS plugins & themes.
 
 ## Future ideas
 
