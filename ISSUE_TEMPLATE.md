@@ -12,7 +12,7 @@ Here is the preferred formatting suggestion. Just replace the brackets with cont
 **Details** [theme website or theme repository on GitHub]
 **Live demo** [theme demo URL]
 
-[quote or short information]
+[concise theme information]
 
 [screenshot image]
 
