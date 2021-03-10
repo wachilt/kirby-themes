@@ -13,7 +13,7 @@ Want do add more formatting? Here is a formatting suggestion. Replace the bracke
 
 **Details** [theme website]
 **Live demo** [theme demo]
-**Github:** [theme repository on github]
+**Github** [theme repository on github]
 
 [quote or short information]
 
