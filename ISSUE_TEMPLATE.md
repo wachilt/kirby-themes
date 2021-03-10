@@ -11,9 +11,9 @@ Just want to add a link? Great!
 
 Want do add more formatting? Here is a formatting suggestion. Replace the brackets with content.
 
-**Details** [theme website]
-**Live demo** [theme demo]
-**Github** [theme repository on github]
+**Details :** [theme website]
+**Live demo :** [theme demo]
+**Github: ** [theme repository on github]
 
 [quote or short information]
 
