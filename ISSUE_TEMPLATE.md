@@ -7,14 +7,14 @@ Want to add a Kirby theme? Excellent!
 
 #### Format (Optional)
 
-Just want to add a link? Great!
+Here is the preferred formatting suggestion. Just replace the brackets with content.
 
-Want do add more formatting? Here is a formatting suggestion. Replace the brackets with content.
-
-**Details :** [theme website]
-**Live demo :** [theme demo]
-**Github: ** [theme repository on github]
+**Details** [theme website]
+**Live demo** [theme demo]
+**Github** [theme repository on github]
 
 [quote or short information]
 
 [screenshot image]
+
+Thank you. :)
