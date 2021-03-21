@@ -1,5 +1,4 @@
-![kirby](https://user-images.githubusercontent.com/2782385/111912224-a2567280-8a60-11eb-9728-49deac449527.png)
-
+![kirby](https://user-images.githubusercontent.com/2782385/111912291-d467d480-8a60-11eb-82f5-9a5b46a7ee30.png)
 # Kirby CMS Themes
 
 ### The unofficial (but extremely comprehensive) **[theme list](https://github.com/jenstornell/kirby-themes/issues)** for [Kirby CMS](https://getkirby.com/).
