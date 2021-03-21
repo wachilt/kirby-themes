@@ -68,3 +68,5 @@ http://www.getkirby-themes.com
 ## Future ideas
 
 - A website built with [Github API](https://developer.github.com/v3/issues/) to make the themes more visually appealing.
+
+Kirby logo © Copyright Bastian Allgeier GmbH
