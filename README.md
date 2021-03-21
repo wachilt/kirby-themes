@@ -1,6 +1,4 @@
-
-![kirby](https://user-images.githubusercontent.com/2782385/111912189-789d4b80-8a60-11eb-9600-3416560a8595.png)
-
+![kirby](https://user-images.githubusercontent.com/2782385/111912224-a2567280-8a60-11eb-9728-49deac449527.png)
 
 # Kirby CMS Themes
 
