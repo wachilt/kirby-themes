@@ -29,7 +29,7 @@
 | [Bootstrap](https://github.com/jenstornell/kirby-themes/labels/Bootstrap), [Foundation](https://github.com/jenstornell/kirby-themes/labels/Foundation), [Material](https://github.com/jenstornell/kirby-themes/labels/Material)--->
 
 
-You can also [search](https://github.com/jenstornell/kirby-themes/issues) for a theme.
+You can also [search](https://github.com/wachilt/kirby-themes/issues) for a theme or [search by label/tag](https://github.com/wachilt/kirby-themes/labels)
 
 ## Submit a theme
 
