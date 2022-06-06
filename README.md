@@ -3,7 +3,7 @@
 
 ### The unofficial (but extremely comprehensive) **[theme list](https://github.com/jenstornell/kirby-themes/issues)** for [Kirby CMS](https://getkirby.com/).
 
-`A fully featured Kirby CMS theme typically contains templates, snippets and assets.`
+`A fully featured Kirby CMS theme typically contains templates, snippets, blueprints & assets.`
 
 ### *Kirby 3 compatible themes now being added.* ###
 
