@@ -11,9 +11,9 @@
 
 | Label      | Description
 | -----------|---
-| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k4_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKirby+4+Theme) | Kirby 4 compatible theme
+| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k4_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3A"Kirby+4+Theme") | Kirby 4 compatible theme
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k3_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3A"Kirby+3+Theme") | Kirby 3 compatible theme
-| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKirby+2+Theme) | Kirby 2 compatible theme
+| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3A"Kirby+2+Theme") | Kirby 2 compatible theme
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | These themes cost money
 | [![Screenshot](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/screenshot.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AScreenshot) | Theme screenshot available
 | [![Foundation](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/foundation.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AFoundation) | Built on Zurb Foundation framework
