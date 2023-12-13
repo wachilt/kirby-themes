@@ -2,8 +2,8 @@ Welcome!
 
 Want to add a Kirby theme? Excellent!
 
-1. Make sure the theme is compatible with Kirby 3.
-2. Make sure it's not already in the repository by searching for the url.
+1. Ensure the theme is compatible with Kirby 3 or Kirby 4.
+2. Ensure it's not already in the repository by searching for the url.
 
 #### Format (Optional)
 
