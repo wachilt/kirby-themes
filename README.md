@@ -11,7 +11,7 @@
 
 | Label      | Description
 | -----------|---
-| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k4_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKirby4Theme) | Kirby 4 compatible theme
+| [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k4_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKirby+4+Theme) | Kirby 4 compatible theme
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k3_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKirby3Theme) | Kirby 3 compatible theme
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKirby2Theme) | Kirby 2 compatible theme
 | [![Commercial](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/commercial.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ACommercial) | These themes cost money
