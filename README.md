@@ -24,11 +24,6 @@
 | [![Docs](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/docs.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ADocs) | Suitable for documents, reference & textual content
 | [![Portfolio](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/portfolio.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3APortfolio) | Suitable for portfolios & displaying work
 
-<!---| Tags
-| ---
-| [Bootstrap](https://github.com/jenstornell/kirby-themes/labels/Bootstrap), [Foundation](https://github.com/jenstornell/kirby-themes/labels/Foundation), [Material](https://github.com/jenstornell/kirby-themes/labels/Material)--->
-
-
 You can also [search](https://github.com/wachilt/kirby-themes/issues) for a theme or [search by label/tag](https://github.com/wachilt/kirby-themes/labels)
 
 ## Submit a theme
