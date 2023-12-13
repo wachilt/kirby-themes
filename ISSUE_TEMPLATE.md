@@ -9,7 +9,7 @@ Want to add a Kirby theme? Excellent!
 
 Here is the preferred formatting suggestion. Just replace the brackets with content.
 
-**Details** [theme website or theme repository on GitHub]
+**Details** [theme website or theme repository on GitHub]\
 **Live demo** [theme demo URL]
 
 [concise theme information]
