@@ -18,7 +18,7 @@
 | [![Screenshot](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/screenshot.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AScreenshot) | Theme screenshot available
 | [![Foundation](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/foundation.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AFoundation) | Built on Zurb Foundation framework
 | [![Bootstrap](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/bootstrap.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ABootstrap) | Built on Bootstrap framework
-| [![Material](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/material1.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AMaterial) | Built on Google Material design framework
+| [![Material](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/material.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AMaterial) | Built on Google Material design framework
 | [![Kube](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/kube.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3AKube) | Built on Kube framework
 | [![Blog](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/blog.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ABlog) | Suitable for blogs & journals
 | [![Docs](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/docs.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3ADocs) | Suitable for documents, reference & textual content
