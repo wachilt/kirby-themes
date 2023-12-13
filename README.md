@@ -45,7 +45,7 @@ If the theme is **broken**, is **malware** or is a **duplicate** (already exists
 
 ## Requirements
 
-Kirby 3 and/or Kirby 2 are required to use these themes. If you are still using Kirby 1 (which is now deprecated) I encourage you to update for compatibility and security reasons.
+Kirby 4 and/or Kirby 3 are required to use these themes. If you are still using Kirby 1 or Kirby 2 (which are now deprecated) I encourage you to update for compatibility and security reasons.
 
 ## Responsibility
 
