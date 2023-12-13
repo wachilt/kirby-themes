@@ -49,7 +49,7 @@ Kirby 4 and/or Kirby 3 are required to use these themes. If you are still using 
 
 ## Responsibility
 
-This repository does not take any responsibility for any potential issues that could arise from the use of these themes. 
+This repository does not take any responsibility for issues that could potentially arise from the use of these themes. 
 
 ## Support
 
