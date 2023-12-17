@@ -36,7 +36,7 @@ You can only add labels if you are a collaborator. I can change the privileges w
 
 ## Report a theme
 
-If the theme is **broken**, is **malware** or is a **duplicate** (already exists in the theme list), add a comment in the theme issue. If others agree, we can label it. Don't close the issue!
+If the theme is **broken**, is **malware** or is a **duplicate** (already exists in the theme list), add a comment in the theme issue. If others agree, I can label it. Don't close the issue!
 
 ## Requirements
 
