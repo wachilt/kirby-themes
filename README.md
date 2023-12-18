@@ -1,4 +1,4 @@
-![kirby](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/kirbylogo.svg)
+![kirby](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/kirby_logo.svg)
 # Kirby CMS Themes
 
 ### The unofficial (but extremely comprehensive) **[theme list](https://github.com/jenstornell/kirby-themes/issues)** for [Kirby CMS](https://getkirby.com/).
