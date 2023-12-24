@@ -9,7 +9,7 @@
 
 <br />
 
-| Label      | Description
+| Label/Tag      | Description
 | -----------|---
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k4_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3A"Kirby+4+Theme") | Kirby 4 compatible theme
 | [![Theme](https://cdn.rawgit.com/jenstornell/kirby-themes/master/labels/k3_theme.svg)](https://github.com/jenstornell/kirby-themes/issues?q=is%3Aissue+is%3Aopen+label%3A"Kirby+3+Theme") | Kirby 3 compatible theme
